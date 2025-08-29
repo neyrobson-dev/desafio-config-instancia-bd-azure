@@ -4,8 +4,6 @@
 Este projeto faz parte do meu aprendizado no curso da **Digital Innovation One (DIO)**.  
 O objetivo foi **configurar uma instância de Banco de Dados na Microsoft Azure**, aplicando na prática os conceitos aprendidos nas aulas e documentando todo o processo de forma simples e clara.
 
-Sou um **desenvolvedor júnior em formação**, então este repositório também funciona como um material de apoio para meus estudos futuros e para compartilhar minha evolução.
-
 ---
 
 ## 🎯 Objetivos de Aprendizagem
